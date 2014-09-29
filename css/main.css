@@ -1,1 +1,19 @@
-body {}
+body {
+  background-color : #eeeeee;
+}
+
+p {
+  color : #333333;
+}
+
+.header {
+  color : blue;
+}
+
+#tableDiv {
+  color : green;
+}
+
+.highlight {
+  background-color : yellow;
+}
